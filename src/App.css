@@ -1,0 +1,97 @@
+.navbar {
+  background-color: #4169e1;
+}
+
+.navbar h3 {
+  display: inline-block;
+  text-align: left;
+  padding: 10px;
+  padding-left: 30px;
+  color: #fff;
+  text-decoration: none;
+}
+
+.navbar a {
+  display: inline-block;
+  padding: 10px;
+  color: #fff;
+  text-decoration: none;
+}
+
+.page-info {
+  padding: 30px;
+}
+
+.Current {
+  color: #2e8b57;
+}
+
+.Completed {
+  color: #ff6347;
+  text-decoration: line-through;
+}
+
+table {
+  margin-left: 10px;
+  margin-top: 30px
+}
+
+tr {
+  cursor: pointer;
+}
+
+.pictures {
+  padding: 10px 20px
+}
+
+.users {
+  padding: 10px 20px;
+  padding-left: 10px
+}
+
+.users h3 {
+  font-size: 16px;
+  font-weight: bold;
+  margin-bottom: 0 !important;
+  margin-top: 0 !important
+}
+
+.users span {
+  background-color: #ff6347;
+  border-radius: 3px;
+  color: #fff;
+  font-size: 11px;
+  padding: 3px 10px
+}
+
+.detail h3 {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 0 !important;
+  margin-top: 0 !important
+}
+
+.detail span {
+  background-color: #ff6347;
+  border-radius: 3px;
+  color: #fff;
+  font-size: 11px;
+  padding: 3px 10px
+}
+
+.detail p {
+  font-size: 12px;
+  margin-top: 30px;
+}
+
+
+/* preloader */
+.preloader {
+	margin: auto;
+	text-align: center;
+	margin-top: 150px;
+}
+.preloader .text {
+	margin-top: 30px;
+	font-size: 13px;
+}
